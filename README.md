@@ -41,9 +41,9 @@
 
 | Project | Description | Tech |
 |--------|-------------|------|
-| [Abuse detection](https://github.com/users/wasanapelawaththa/projects/2) | An AI system for human abuse detection in social media texts | HTML/CSS,Python/AI|
+| [Abuse detection](https://github.com/users/wasanapelawaththa/projects/2) | An AI system for human abuse detection in social media texts | HTML/CSS/Python/AI|
 | [Book Away](https://github.com/wasanapelawaththa/Railway-e-ticketing-system) |Smart railway ticketing system | HTML/CSS/Python/Flask |
-| [Portfolio Site](https://maheshi.dev) | My personal portfolio website 🌐 | HTML, CSS, JS |
+| [E-market place](https://github.com/wasanapelawaththa/e-marketplace) | Smart vehicle buying and selling platfoam | HTML/CSS/JS/PHP |
 
 ---
 
