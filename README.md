@@ -1,7 +1,7 @@
+<p align="left">
+  <img src="Downloads/profile.jpg" alt="Profile Picture" width="100" style="border-radius: 50%; margin-right: 20px;">
 <h1 align="center">Hi 👋, I'm Wasana</h1>
 <h3 align="center">A passionate developer, designer , marketer & lifelong learner from 🌍</h3>
-
-<img align="right" alt="Coding" width="300" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/media/320984a5a1ad1c5e2200c0e5b7f8e56e.gif">
 
 ---
 
@@ -10,7 +10,6 @@
 - 🌱 I’m currently learning **Back End Development and Machine Learning**
 - 💬 Ask me about **Python, Flask, MySQL, HTML, CSS, JavaScript**
 - 📫 Reach me on **wasana200094@gmail.com**
-- ⚡ I make better designs when I’m sipping coffee 🍵
 - 🖋️ If I am not coding you can find me on writting
 
 ---
