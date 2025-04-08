@@ -41,8 +41,8 @@
 
 | Project | Description | Tech |
 |--------|-------------|------|
-| [Abuse detection](https://github.com/users/wasanapelawaththa/projects/2) | An AI system for human abuse detection in social media texts | Flask, MySQL, HTML/CSS |
-| [Daily Planner](https://github.com/Maheshi123/daily-planner) | Organizer for personal tasks 📅 | C++, Qt |
+| [Abuse detection](https://github.com/users/wasanapelawaththa/projects/2) | An AI system for human abuse detection in social media texts | HTML/CSS,Python/AI|
+| [Book Away](https://github.com/wasanapelawaththa/Railway-e-ticketing-system) |Smart railway ticketing system | HTML/CSS/Python/Flask |
 | [Portfolio Site](https://maheshi.dev) | My personal portfolio website 🌐 | HTML, CSS, JS |
 
 ---
