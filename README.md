@@ -41,7 +41,7 @@
 
 | Project | Description | Tech |
 |--------|-------------|------|
-| [Abuse detection](https://github.com/users/wasanapelawaththa/projects/2)) | An AI system for human abuse detection in social media texts | Flask, MySQL, HTML/CSS |
+| [Abuse detection](https://github.com/users/wasanapelawaththa/projects/2) | An AI system for human abuse detection in social media texts | Flask, MySQL, HTML/CSS |
 | [Daily Planner](https://github.com/Maheshi123/daily-planner) | Organizer for personal tasks 📅 | C++, Qt |
 | [Portfolio Site](https://maheshi.dev) | My personal portfolio website 🌐 | HTML, CSS, JS |
 
