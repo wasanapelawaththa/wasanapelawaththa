@@ -1,6 +1,7 @@
-<p align="left">
-  <img src="Downloads/profile.jpg" alt="Profile Picture" width="100" style="border-radius: 50%; margin-right: 20px;">
+<div align="center">
+  <img src="https://avatars.githubusercontent.com/u/206502785?v=4.jpg" alt="Profile Picture" width="100" style="border-radius: 10%; margin-right: 0px;">
 <h1 align="center">Hi 👋, I'm Wasana</h1>
+</div>
 <h3 align="center">A passionate developer, designer , marketer & lifelong learner from 🌍</h3>
 
 ---
